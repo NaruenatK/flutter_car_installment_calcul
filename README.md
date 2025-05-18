@@ -1,16 +1,6 @@
 # flutter_car_installment_calcul
 
-A new Flutter project.
+## ภาพ UI
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/user-attachments/assets/864b51a7-4f1f-4922-af54-3d80177b50e3" width="200">
+<img src="https://github.com/user-attachments/assets/e11fe66a-e2ef-4ab8-a4bb-dffb599e0473" width="200">
