@@ -17,7 +17,7 @@ class _SplashSceenUiState extends State<SplashSceenUi> {
       Navigator.pushReplacement(
         context,
         MaterialPageRoute(
-          builder: (context) => InputSceenUi(),
+          builder: (context) => InputScreenUI(),
         ),
       );
     });

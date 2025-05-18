@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_third_app/views/input_sceen_ui.dart';
+import 'package:flutter_third_app/views/result_sceen_ui.dart';
 import 'package:flutter_third_app/views/splash_sceen_ui.dart';
 import 'package:google_fonts/google_fonts.dart';
 
@@ -24,7 +26,7 @@ class _FlutterCarInstallCalculState extends State<FlutterCarInstallCalcul> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: SplashSceenUi(),
+      home: InputScreenUI(),
       theme: ThemeData(
           textTheme: GoogleFonts.kanitTextTheme(
         Theme.of(context).textTheme,
